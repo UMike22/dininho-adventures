@@ -1,0 +1,18 @@
+.social-media{
+   display: block;
+    height: 30px;
+    text-indent: -9999px;
+    background-repeat: no-repeat;
+    width: 30px;
+    
+
+}
+.social-media[href="https://twitch.tv/dininho"]{
+  background-image: url(../../img/twitch.svg);
+}
+.social-media[href="https://twitter.com/dinobonoide"]{
+    background-image: url(../../img/twitter.svg);
+}
+.social-media[href="https://discordapp.com/invite/96hejEn"]{
+    background-image: url(../../img/discord.svg);
+}

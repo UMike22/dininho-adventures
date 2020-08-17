@@ -1,0 +1,9 @@
+.title-dino {
+    margin-bottom:var(--gap-big);
+    margin-top: var(--gap-medium);
+    text-align: center;
+    font-size: 28px;
+    line-height: 36px;
+    color: #FCFDFC;
+    font-family: 'Bungee', cursive;
+}

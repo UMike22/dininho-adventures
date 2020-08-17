@@ -1,0 +1,16 @@
+.list-dino {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: var(--gap-medium);
+    color: #050914;
+
+}
+li{
+    margin-bottom: 10px;
+    color: #050914;
+
+
+}

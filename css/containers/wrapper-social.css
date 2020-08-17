@@ -1,0 +1,13 @@
+.wrapper-social{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 45px;
+    
+   
+    
+}
+.wrapper-social .social-media:last-of-type{
+    margin-right: 50px;
+}
+

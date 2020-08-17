@@ -1,0 +1,6 @@
+.footer-dino{
+    padding-bottom: var(--gap-medium);
+    margin-bottom: var(--gap-small);
+    font-weight: bold;
+
+}

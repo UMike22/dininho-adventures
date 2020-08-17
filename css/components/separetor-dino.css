@@ -1,0 +1,40 @@
+.separetor-dino{
+
+background-image: url(../../img/egg.png);
+background-size: auto 22px;
+height: 22px;
+border: none;
+background-repeat: no-repeat;
+background-position: center;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+.separetor-dino.-all{
+    background-image: url(../../img/eggs.png.png);
+    background-size: 60px auto;
+    height: 58px;
+    
+}
+
+.separetor-dino::before,
+.separetor-dino::after{
+    content: '';
+    width: 45%;
+    height: 4px;
+    background-color: #FAFFFF;
+    
+}
+
+
+.separetor-dino::before,
+.separetor-dino::after{
+    width: 42%;
+}
+.separetor-dino::before{
+    border-radius: 0 2px 2px 0;
+}
+.separetor-dino::after{
+    border-radius: 2px 0 0 2px;
+}
